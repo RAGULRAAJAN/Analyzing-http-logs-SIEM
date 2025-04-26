@@ -24,7 +24,7 @@ In this hands-on session, you will:
 
 **Sample Dataset**: Zeek-style HTTP logs in JSON format
 
-**Download Link**: [HTTP Log Sample File](https://raw.githubusercontent.com/0xrajneesh/30-Days-SOC-Challenge-Beginner/refs/heads/main/http_logs.json)
+**Download Link**: [HTTP Log Sample File](http.log)
 
 ## Data Ingestion Process
 
