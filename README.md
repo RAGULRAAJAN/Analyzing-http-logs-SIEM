@@ -1,4 +1,4 @@
-# Splunk HTTP Log Analysis: Hands-On Workshop
+# Splunk HTTP Log Analysis
 
 ## Introduction
 
